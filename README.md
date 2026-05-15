@@ -19,23 +19,7 @@ Argo CD manages Kubernetes deployments via Git, but checking sync status, health
 - **Headlamp Project Tab** — Injects an "Argo CD" tab into the Headlamp Projects detail view, automatically filtering Applications by the project's namespaces
 - **Graceful degradation** — Sidebar entries and tabs are hidden automatically on clusters where Argo CD is not installed
 
----
 
-## Screenshots
-
-### Applications List
-![Applications List](../../proposal/screenshots/01-applications-list.png)
-
-### Application Details
-![Application Details](../../proposal/screenshots/02-application-details.png)
-
-### App Projects List
-![App Projects List](../../proposal/screenshots/04-appprojects-list.png)
-
-### App Project Details
-![App Project Details](../../proposal/screenshots/05-appproject-details.png)
-
----
 
 ## Tech Stack
 
