@@ -1,8 +1,7 @@
-# Argo CD Headlamp Plugin
+# Argo CD Headlamp Plugin demo
 
 A [Headlamp](https://headlamp.dev) plugin that integrates [Argo CD](https://argo-cd.readthedocs.io) GitOps into the Headlamp Kubernetes UI.
 
-Built as part of my LFX Mentorship 2026 proposal for [Issue #5260](https://github.com/kubernetes-sigs/headlamp/issues/5260).
 
 ---
 
